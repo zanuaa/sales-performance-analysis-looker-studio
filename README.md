@@ -8,7 +8,7 @@ This project develops a centralized sales dashboard for Maru Footwear Sales, a f
 - Identify top-performing products and categories based on key metrics. 
 - Support data-driven decision making by providing interactive insights that help optimize sales strategy, pricing, and marketplace focus.
 
-## ToolS
+## Tools
 Google Looker Studio
 
 ## Dataset 
