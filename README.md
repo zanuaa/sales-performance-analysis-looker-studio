@@ -20,6 +20,8 @@ Maru Footwear Sales
 
 ## Dashboard 
 You can view the interactive dashboard at https://lookerstudio.google.com/reporting/9c024da8-2689-4a34-a6ca-99bcaadd1cb8
+
+
 <img width="1337" height="804" alt="image" src="https://github.com/user-attachments/assets/3c2f61bf-9cec-4b06-a6d7-8958ad6235cd" />
 
 ## Conclusions
